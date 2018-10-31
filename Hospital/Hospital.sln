@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Domain", "Domain\Hospital.Domain.csproj", "{9D2F4F84-DFA0-406E-9F12-B9448BA711B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI", "WebUI\WebUI.csproj", "{99416F9C-3A67-4EA8-9372-C2DBA612DA0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D2F4F84-DFA0-406E-9F12-B9448BA711B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D2F4F84-DFA0-406E-9F12-B9448BA711B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D2F4F84-DFA0-406E-9F12-B9448BA711B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D2F4F84-DFA0-406E-9F12-B9448BA711B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99416F9C-3A67-4EA8-9372-C2DBA612DA0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99416F9C-3A67-4EA8-9372-C2DBA612DA0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99416F9C-3A67-4EA8-9372-C2DBA612DA0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99416F9C-3A67-4EA8-9372-C2DBA612DA0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D1C3C95-AD6F-40AD-9EBF-E6BEAA343298}
+	EndGlobalSection
+EndGlobal
